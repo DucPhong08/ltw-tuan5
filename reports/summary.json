@@ -1,0 +1,31 @@
+{
+  "unoptimized": {
+    "score": 74,
+    "fcp": "0.3 s",
+    "fcpNumeric": 325.7689,
+    "lcp": "0.5 s",
+    "lcpNumeric": 536.326675,
+    "tbt": "710 ms",
+    "tbtNumeric": 709.11555,
+    "cls": "0",
+    "clsNumeric": 0,
+    "speedIndex": "1.2 s"
+  },
+  "optimized": {
+    "score": 100,
+    "fcp": "0.3 s",
+    "fcpNumeric": 323.5786,
+    "lcp": "0.3 s",
+    "lcpNumeric": 323.5786,
+    "tbt": "0 ms",
+    "tbtNumeric": 0,
+    "cls": "0",
+    "clsNumeric": 0,
+    "speedIndex": "0.3 s"
+  },
+  "improvements": {
+    "scoreDiff": "+26 điểm",
+    "tbtDiff": "709 ms giảm",
+    "lcpDiff": "0.21 s nhanh hơn"
+  }
+}
